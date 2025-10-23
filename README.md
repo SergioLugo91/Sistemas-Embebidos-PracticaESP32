@@ -9,3 +9,5 @@ EEPROM --> guardar valor límite para la concentración de gas, que se pueda mod
 Modo de sueño ligero --> permanecer en modo de sueño ligero y tomar valores cada cierto tiempo, cuando se detecte un valor por encima del límite despertar la placa y activar la alarma.
 
 WIFI --> crear una página web donde se envíen los datos de lectura del sensor, se pueda observar cuando se dispara la alarma y cambiar el valor límite de concentración.
+
+Interrupción --> usar uno de los sensores capacitivos para encender la placa y mantenerla enviando datos a la página web hasta que se vuelva a activar el sensor. 
