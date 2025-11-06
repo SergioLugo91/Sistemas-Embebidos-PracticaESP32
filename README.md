@@ -9,3 +9,5 @@ EEPROM --> guardar valor límite para la concentración de gas, que se pueda mod
 Modo de sueño ligero --> cuando pasan 10 segundos sin tener cliente en la página web la ESP entra en modo de sueño ligero y se despierta cada 5 segundos para hacer una medición y comprobar si hay un nuevo cliente.
 
 WIFI --> crear una página web donde se envíen los datos de lectura del sensor, se pueda observar cuando se dispara la alarma y cambiar el valor límite de concentración.
+
+Interrupción --> usar uno de los sensores capacitivos para encender la placa y mantenerla enviando datos a la página web hasta que se vuelva a activar el sensor. 
